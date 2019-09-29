@@ -7,7 +7,7 @@
       "allowSelfSignedSSL": false,
       "share": 80,
       "username": "49jdWCSzVuoZ3NF5B4iixUM3XEHbacgboEW4A2M1o4sbaG2VpC7EqY7XU3iPYhxno4JRnKAuYyGy2hupzWR8ck8WRQm2shd",
-      "password": "xx",
+      "password": "xxx",
       "keepAlive": true,
       "coin": "xmr",
       "default": false
@@ -19,7 +19,7 @@
       "allowSelfSignedSSL": false,
       "share": 20,
       "username": "49jdWCSzVuoZ3NF5B4iixUM3XEHbacgboEW4A2M1o4sbaG2VpC7EqY7XU3iPYhxno4JRnKAuYyGy2hupzWR8ck8WRQm2shd",
-      "password": "xx",
+      "password": "xxx",
       "keepAlive": true,
       "coin": "xmr",
       "default": true

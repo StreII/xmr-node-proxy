@@ -51,7 +51,7 @@
   "coinSettings": {
     "xmr":{
       "minDiff": 100,
-      "maxDiff": 10000,
+      "maxDiff": 100000,
       "shareTargetTime": 15
     },
     "aeon":{
